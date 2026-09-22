@@ -26,7 +26,7 @@ Outside of school, I maintain my own homelab server to explore infrastructure, n
 
 **🌐 Web Development**
 
-`HTML` · `CSS` · `React` · `Next.js` · `Vue.js` · `Angular` · `Node.js` · `Express.js` · `Laravel` · `Tailwind CSS` · `Bootstrap` · `REST APIs` · `GraphQL` · `Prisma` · `Postman`
+`HTML` · `CSS` · `React` · `Vite`· `Next.js` · `Vue.js` · `Angular` · `Node.js` · `Express.js` · `Laravel` · `Tailwind CSS` · `Bootstrap` · `REST APIs` · `GraphQL` · `Prisma` · `Postman`
 
 **🗄️ Databases & Backend**
 
