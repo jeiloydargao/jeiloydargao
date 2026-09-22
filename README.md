@@ -1,12 +1,12 @@
 # 👋 Jeiloyd Argao
 
-**🎓 Information Technology Student · Entrepreneur · Saint Louis University**
+**🎓 Information Technology · Saint Louis University**
 
-> 💡 Building, learning, and exploring technology.
+> 💡 Building Solutions | Leading Projects | Driving Innovation
 
 ### 🧑‍💻 About
 
-I'm an IT student and entrepreneur interested in **software development, web development, cloud computing, and cybersecurity**.
+I'm an IT student and entrepreneur interested in **software development, cloud computing, and cybersecurity**.
 
 I also help run our family business, giving me hands-on experience in operations, customer relations, and problem-solving.
 
@@ -26,7 +26,7 @@ Outside of school, I maintain my own homelab server to explore infrastructure, n
 
 **🌐 Web Development**
 
-`HTML` · `CSS` · `React` · `Next.js` · `Vue.js` · `Angular` · `Svelte` · `Node.js` · `Express.js` · `Laravel` · `Tailwind CSS` · `Bootstrap` · `REST APIs` · `GraphQL` · `Prisma` · `Postman`
+`HTML` · `CSS` · `React` · `Next.js` · `Vue.js` · `Angular` · `Node.js` · `Express.js` · `Laravel` · `Tailwind CSS` · `Bootstrap` · `REST APIs` · `GraphQL` · `Prisma` · `Postman`
 
 **🗄️ Databases & Backend**
 
@@ -34,15 +34,17 @@ Outside of school, I maintain my own homelab server to explore infrastructure, n
 
 **☁️ Cloud & DevOps**
 
-`AWS` · `Docker` · `Linux` · `Git` · `GitHub`
+`AWS` · `Google` · `Azure` · `Docker` · `Linux` · `Git` · `GitHub`
 
 **🎨 Tools**
 
-`Figma` · `Canva` · `Power BI` · `Google Workspace` · `Notion` · `Trello` · `VS Code`· `Cursor`
+`Figma` · `Canva` · `Power BI` · `Google Workspace` · `Slack` · `Notion` · `Trello` · `VS Code`· `Cursor`
 
 ### 📂 Projects
 
-**🏢 SLU PrintDesk**** — Student printing service system
+**🏢 Course4Ward** — Capstone Project / Thesis
+
+**🏢 SLU PrintDesk** — Student printing service system
 
 **🏢 SLU OrgDesk** — Student organization management system
 
@@ -50,7 +52,7 @@ Outside of school, I maintain my own homelab server to explore infrastructure, n
 
 ### 🎯 Focus
 
-**Software Engineering** · **Web Development** · **CloudOps** · **Cybersecurity** · **IT Infrastructure**
+**Software Engineering** · **CloudOps** · **Cybersecurity** · **IT Specialist**
 
 ### 🤝 Connect
 
