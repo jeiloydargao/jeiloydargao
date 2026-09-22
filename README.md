@@ -18,23 +18,6 @@ Outside of school, I maintain my own homelab server to explore infrastructure, n
 
 * **Head of Operations** · 2026–Present
 * **Associate, Operations** · 2025–2026
-### 🛠️ Tech
-
-**💻 Languages**
-
-`Java` · `Python` · `PHP` · `JavaScript` · `TypeScript`
-
-**🌐 Web Development**
-
-`HTML` · `CSS` · `React` · `Vite`· `Next.js` · `Vue.js` · `Angular` · `Node.js` · `Express.js` · `Laravel` · `Tailwind CSS` · `Bootstrap` · `REST APIs` · `GraphQL` · `Prisma` · `Postman`
-
-**🗄️ Databases & Backend**
-
-`MySQL` · `PostgreSQL` · `MongoDB` · `SQLite` · `Firebase` · `Supabase`
-
-**☁️ Cloud & DevOps**
-
-`AWS` · `Google` · `Azure` · `Docker` · `Linux` · `Git` · `GitHub`
 
 **🎨 Tools**
 
