@@ -21,24 +21,31 @@ Outside of school, I maintain my own homelab server to explore infrastructure, n
 ### 🛠️ Tech
 
 **💻 Languages**
+
 `Java` · `Python` · `PHP` · `JavaScript` · `TypeScript`
 
 **🌐 Web Development**
+
 `HTML` · `CSS` · `React` · `Next.js` · `Vue.js` · `Angular` · `Svelte` · `Node.js` · `Express.js` · `Laravel` · `Tailwind CSS` · `Bootstrap` · `REST APIs` · `GraphQL` · `Prisma` · `Postman`
 
 **🗄️ Databases & Backend**
+
 `MySQL` · `PostgreSQL` · `MongoDB` · `SQLite` · `Firebase` · `Supabase`
 
 **☁️ Cloud & DevOps**
+
 `AWS` · `Docker` · `Linux` · `Git` · `GitHub`
 
 **🎨 Tools**
+
 `Figma` · `Canva` · `Power BI` · `Google Workspace` · `Notion` · `Trello` · `VS Code`· `Cursor`
 
 ### 📂 Projects
 
 **🏢 SLU PrintDesk**** — Student printing service system
+
 **🏢 SLU OrgDesk** — Student organization management system
+
 **🖥️ Homelab** — Personal server and self-hosted environment
 
 ### 🎯 Focus
